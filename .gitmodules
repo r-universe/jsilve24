@@ -18,3 +18,8 @@
 	url = https://github.com/jsilve24/philr
 	shallow = true
 	registered = true
+[submodule "MicrobeDS"]
+	path = MicrobeDS
+	url = https://github.com/twbattaglia/MicrobeDS
+	shallow = true
+	registered = false
