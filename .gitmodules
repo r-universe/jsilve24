@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fido"]
-	path = fido
-	url = https://github.com/jsilve24/fido
-	shallow = true
-	registered = true
 [submodule "RcppHungarian"]
 	path = RcppHungarian
 	url = https://github.com/jsilve24/rcpphungarian
