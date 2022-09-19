@@ -1,5 +1,9 @@
 [
   {
+    "package": "fido",
+    "oncran": true
+  },
+  {
     "package": "RcppHungarian",
     "oncran": true
   }
