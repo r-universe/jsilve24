@@ -6,5 +6,8 @@
   {
     "package": "RcppHungarian",
     "oncran": true
+  },
+  {
+    "package": "philr"
   }
 ]
