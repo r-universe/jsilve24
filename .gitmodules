@@ -8,14 +8,14 @@
 	url = https://github.com/jsilve24/fido
 	shallow = true
 	registered = true
-[submodule "RcppHungarian"]
-	path = RcppHungarian
-	url = https://github.com/jsilve24/rcpphungarian
-	shallow = true
-	registered = true
 [submodule "philr"]
 	path = philr
 	url = https://github.com/jsilve24/philr
+	shallow = true
+	registered = true
+[submodule "RcppHungarian"]
+	path = RcppHungarian
+	url = https://github.com/jsilve24/rcpphungarian
 	shallow = true
 	registered = true
 [submodule "MicrobeDS"]

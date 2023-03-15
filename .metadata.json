@@ -4,10 +4,10 @@
     "oncran": true
   },
   {
-    "package": "RcppHungarian",
-    "oncran": true
+    "package": "philr"
   },
   {
-    "package": "philr"
+    "package": "RcppHungarian",
+    "oncran": true
   }
 ]
