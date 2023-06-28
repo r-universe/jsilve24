@@ -1,25 +1,17 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fido"]
 	path = fido
 	url = https://github.com/jsilve24/fido
-	shallow = true
-	registered = true
 [submodule "philr"]
 	path = philr
 	url = https://github.com/jsilve24/philr
-	shallow = true
-	registered = true
 [submodule "RcppHungarian"]
 	path = RcppHungarian
 	url = https://github.com/jsilve24/rcpphungarian
-	shallow = true
-	registered = true
 [submodule "MicrobeDS"]
 	path = MicrobeDS
 	url = https://github.com/twbattaglia/MicrobeDS
-	shallow = true
 	registered = false
