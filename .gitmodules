@@ -12,6 +12,3 @@
 [submodule "fido"]
 	path = fido
 	url = https://github.com/jsilve24/fido
-[submodule "philr"]
-	path = philr
-	url = https://github.com/jsilve24/philr
